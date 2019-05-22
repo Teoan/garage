@@ -16,3 +16,6 @@
 | opencv-3.2.0_ARM.tar                  | 交叉编译后的opencv                      |
 | Qt-5.5.0-gec2015.11.tar.gz            | 交叉编译后的Qt，可生成ARM板上的执行文件 |
 
+## 注意
+本项目所使用的交叉编译工具为**gcc-linaro-5.4.1-2017.05-i686_arm-linux-gnueabi**
+
