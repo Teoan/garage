@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>icon/adjustment .png</file>
+        <file>icon/back.png</file>
+        <file>icon/back1.png</file>
+        <file>icon/clock.png</file>
+        <file>icon/clock1.png</file>
+        <file>icon/cost.png</file>
+        <file>icon/house.png</file>
+        <file>icon/music.png</file>
+        <file>icon/next.png</file>
+        <file>icon/padlock.png</file>
+        <file>icon/pause.png</file>
+        <file>icon/power.png</file>
+        <file>icon/quaver.png</file>
+        <file>icon/rec.png</file>
+        <file>icon/rewind.png</file>
+        <file>icon/settings.png</file>
+        <file>icon/sound.png</file>
+        <file>icon/heart.png</file>
+        <file>icon/stop.png</file>
+        <file>icon/next1.png</file>
+        <file>icon/cancle.png</file>
+    </qresource>
+    <qresource prefix="/bg">
+        <file>icon/bg.jpg</file>
+        <file>icon/bg1.jpg</file>
+        <file>icon/bg2.jpg</file>
+        <file>icon/itas_800_480.gif</file>
+    </qresource>
+</RCC>
